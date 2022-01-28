@@ -1,4 +1,4 @@
 hello online git
 smart git change 
-
+edit on line 3 for revert
 editing from github for smartgit
